@@ -24,7 +24,7 @@ Um aplicativo **Linktree personalizado** desenvolvido em **React Native** com **
 
 ## 📸 Prévia
 
-<img src="linktreeApp/assets/telaInicial.png" width="300" alt="Tela inicial do app"/>
+<img src="./assets/telaInicial.png" width="300" alt="Tela inicial do app"/>
 
 ---
 

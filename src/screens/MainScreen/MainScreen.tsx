@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, Image, TouchableOpacity, Button } from 'react-native';
 import { styles } from '../MainScreen/MainScreenStyle';
 import { StatusBar } from 'expo-status-bar';
-import profile from '../../../assets/Profile.jpg'
+import profile from '../../../assets/Profile.png'
 import {LinkGitHub, LinkInstagram, LinkLinkedin, LinkWhatsApp } from '../../services/LinksRoutes';
 
 export function MainScreen({navigation}: any) {
