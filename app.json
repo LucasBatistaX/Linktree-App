@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "linktreeApp",
-    "slug": "linktreeApp",
+    "slug": "linktreeapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Profile.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/profile.png",
+      "image": "./assets/Profile.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
@@ -17,18 +17,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/profile.png",
+        "foregroundImage": "./assets/Profile.jpg",
         "backgroundColor": "#000000"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.lucas070.linktreeApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "67559688-79c8-45ae-a8a9-29d732b22c69"
+        "projectId": "b506882e-daf1-4a77-8f3e-bc1602b3f0f9"
       }
-    }
+    },
+    "owner": "lucas070"
   }
 }
