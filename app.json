@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "linktreeApp",
-    "slug": "linktreeApp",
+    "name": "MylinktreeApp",
+    "slug": "linktreeapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/Profile.jpg",
@@ -21,7 +21,7 @@
         "backgroundColor": "#000000"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.lucas070.linktreeApp"
+      "package": "com.lucas070.linktreeapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
